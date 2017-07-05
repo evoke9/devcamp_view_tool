@@ -20,7 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+``` ruby
+DevcampViewTool::Renderer.copyright 'Juyoung Kim', 'All rights reserved'
+```
+
 
 ## Development
 

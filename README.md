@@ -7,7 +7,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'devcamp_view_tool'
+gem 'kim_view_tool'
 ```
 
 And then execute:
@@ -16,12 +16,12 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install devcamp_view_tool
+    $ gem install kim_view_tool
 
 ## Usage
 
 ``` ruby
-DevcampViewTool::Renderer.copyright 'Juyoung Kim', 'All rights reserved'
+KimViewTool::Renderer.copyright 'Juyoung Kim', 'All rights reserved'
 ```
 
 

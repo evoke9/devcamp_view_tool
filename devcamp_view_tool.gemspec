@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "devcamp_view_tool"
   spec.version       = DevcampViewTool::VERSION
   spec.authors       = ["Jordan Hudgens"]
-  spec.email         = ["jordan@devcamp.com"]
+  spec.email         = ["jordan@wow.com"]
 
   spec.summary       = %q{Various view specific methods for applications I use.}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
